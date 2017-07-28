@@ -1,0 +1,2 @@
+# coding-guidelines
+Best practices and coding guidelines for fabric8-analytics
